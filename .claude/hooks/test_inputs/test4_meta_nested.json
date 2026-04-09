@@ -1,0 +1,1 @@
+{"hook_event_name":"PostToolUse","tool_name":"Agent","tool_input":{"subagent_type":"curious-junior-agent"},"tool_response":{"content":[{"type":"text","text":"[分析: 我要问一个致命的问题] 学长好厉害！"}]}}

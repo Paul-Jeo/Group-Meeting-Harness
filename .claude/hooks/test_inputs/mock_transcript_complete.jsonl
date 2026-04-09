@@ -1,0 +1,5 @@
+{"type":"assistant","message":{"content":[{"type":"tool_use","name":"Skill","input":{"name":"big-boss"},"id":"toolu_001"}]}}
+{"type":"assistant","message":{"content":[{"type":"tool_use","name":"Glob","input":{"pattern":".claude/skills/big-boss/character/*.md"},"id":"toolu_002"}]}}
+{"type":"assistant","message":{"content":[{"type":"tool_use","name":"Read","input":{"file_path":".claude/skills/big-boss/character/voice-variants.md"},"id":"toolu_003"}]}}
+{"type":"assistant","message":{"content":[{"type":"tool_use","name":"Read","input":{"file_path":"docs/social-patterns/advisor-subtext/big-boss-subtext.md"},"id":"toolu_004"}]}}
+{"type":"assistant","message":{"content":[{"type":"tool_use","name":"Read","input":{"file_path":"docs/social-patterns/power-dynamics/advisor-archetypes.md"},"id":"toolu_005"}]}}

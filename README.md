@@ -1,3 +1,5 @@
+**English** | [中文](README.zh-CN.md)
+
 # Group Meeting Harness
 
 > An academic group meeting simulator powered by eight AI roles.
